@@ -1,0 +1,13 @@
+E:\Practicas\C_Sharp\Taller2\Taller2\bin\Debug\Taller2.exe.config
+E:\Practicas\C_Sharp\Taller2\Taller2\bin\Debug\Taller2.exe
+E:\Practicas\C_Sharp\Taller2\Taller2\bin\Debug\Taller2.pdb
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.csprojAssemblyReference.cache
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.frmTaller2.resources
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.Properties.Resources.resources
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.csproj.GenerateResource.cache
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.csproj.CoreCompileInputs.cache
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.exe
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.pdb
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.frmMayorEdad.resources
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.frmCalificaciones.resources
+E:\Practicas\C_Sharp\Taller2\Taller2\obj\Debug\Taller2.frmDescuento.resources
